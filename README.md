@@ -1,4 +1,4 @@
-# Ledger Boilerplate Application
+# Ledger Accumulate Application
 
 This the firmware for the Accumualate app for the Ledger Nano S/X.
 
