@@ -1,6 +1,6 @@
 # Ledger Accumulate Application
 
-This the firmware for the Accumualate app for the Ledger Nano S/X.
+This is the firmware for the Accumulate app for the Ledger Nano S/X.
 
 ## Prerequisite
 
